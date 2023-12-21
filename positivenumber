@@ -1,0 +1,7 @@
+A= eval(input('enter a number:- '))
+if A>=0:
+    print(A+A)
+else:
+    print(A*A)
+    
+        

@@ -1,0 +1,8 @@
+A=input('enter a string:- ')
+i=0
+out=''
+while i<len(A):
+    out=out+A[len(A)-i-1]
+    i+=1
+print(out) 
+
